@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Bottle
+Comment=A browser for Bitcoin BSV
+Exec=bottle
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=Bottle
+Categories=Network;
